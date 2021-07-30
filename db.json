@@ -2,7 +2,7 @@
   "29c29a297c1aa636": {
     "id": 1,
     "imei": "29c29a297c1aa636",
-    "name": "A hieu bn",
+    "name": "A Son CD",
     "type": 1,
     "isExpired": false,
     "expiredAt": "26/08/2021"
@@ -10,7 +10,7 @@
   "5033aa0e56c3108d": {
     "id": 2,
     "imei": "5033aa0e56c3108d",
-    "name": "A Son CD",
+    "name": "A hieu bn",
     "type": 1,
     "isExpired": false,
     "expiredAt": "26/08/2021"
